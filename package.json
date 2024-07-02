@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com:BubblingXuYijie/SM4Util.git"
+  },
+  "dependencies": {
+     "base64-js": "1.5.1"
   }
 }
