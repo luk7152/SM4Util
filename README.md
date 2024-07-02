@@ -1,4 +1,5 @@
 ```vue
+ * 项目中需要引入base64js
  * 调用方法：
  * 引入
   import {SM4Util} from "sm4util";
